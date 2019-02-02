@@ -8,7 +8,7 @@ inputs:
   webserver_port:
     description: >
       The HTTP web server port.
-    default: 800
+    default: 8000
 
 node_templates:
 
